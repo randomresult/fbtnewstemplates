@@ -1,0 +1,10 @@
+plugin.tx_fbtnewstemplates.view {
+	templateRootPath = {$plugin.tx_fbtnewstemplates.view.templateRootPath}
+	partialRootPath = {$plugin.tx_fbtnewstemplates.view.partialRootPath}
+	layoutRootPath = {$plugin.tx_fbtnewstemplates.view.layoutRootPath}
+}
+plugin.tx_news.view.overlays.fbtnewstemplates {
+	templateRootPath = {$plugin.tx_fbtnewstemplates.view.templateRootPath}
+	partialRootPath = {$plugin.tx_fbtnewstemplates.view.partialRootPath}
+	layoutRootPath = {$plugin.tx_fbtnewstemplates.view.layoutRootPath}
+}

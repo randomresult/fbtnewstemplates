@@ -1,0 +1,5 @@
+plugin.tx_fbtnewstemplates.view {
+	templateRootPath = EXT:fbtnewstemplates/Resources/Private/Templates/
+	partialRootPath = EXT:fbtnewstemplates/Resources/Private/Partials/
+	layoutRootPath = EXT:fbtnewstemplates/Resources/Private/Layouts/
+}
